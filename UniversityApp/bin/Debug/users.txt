@@ -1,0 +1,2 @@
+Username: Doniel, Password: 5f0046725fe74e1b24e509d930c801717b6c969fab58311b42c37e6c83c31da5, Full Name: DYZ, Email: dyz@gmail.com, ID: 332497635, Profession: Student, Approval: Approved, Head of Department: 666666666, Date of Last Login: 22/07/2025 17:19, Study Track: Computer Science
+Username: Shahar, Password: f554f1c767b47eb116f48daf45c1258f61173cae44846cf285f4fc66aa8f446d, Full Name: Evil Shahar, Email: evsh@haha.com, ID: 123456789, Profession: Professor, Approval: Approved, Head of Department: 666666666, Date of Last Login: 17/07/2025 14:59
